@@ -1,0 +1,83 @@
+05/26/2020 12:14:50 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 12:14:51 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span locatorType: xpath
+05/26/2020 12:14:51 PM - LoginPage - INFO: Element found with locator: phone_no1 and  locatorType: id
+05/26/2020 12:14:52 PM - LoginPage - INFO: Sent data on element with locator: phone_no1 locatorType: id
+05/26/2020 12:14:54 PM - LoginPage - INFO: Element found with locator: verify-btn and  locatorType: id
+05/26/2020 12:14:54 PM - LoginPage - INFO: Clicked on element with locator: verify-btn locatorType: id
+05/26/2020 12:15:14 PM - LoginPage - INFO: Element found with locator: otp and  locatorType: id
+05/26/2020 12:15:14 PM - LoginPage - INFO: Element found with locator: sendOtp and  locatorType: id
+05/26/2020 12:15:14 PM - LoginPage - INFO: Clicked on element with locator: sendOtp locatorType: id
+05/26/2020 12:15:19 PM - Util - INFO: Actual Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 12:15:19 PM - Util - INFO: Expected Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 12:15:19 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+05/26/2020 12:15:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Url Verification
+05/26/2020 12:15:19 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 12:15:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + My Account Verification
+05/26/2020 12:15:20 PM - TestStatus - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 02:48:34 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 02:48:36 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span locatorType: xpath
+05/26/2020 02:48:36 PM - LoginPage - INFO: Element found with locator: phone_no1 and  locatorType: id
+05/26/2020 02:48:36 PM - LoginPage - INFO: Sent data on element with locator: phone_no1 locatorType: id
+05/26/2020 02:48:38 PM - LoginPage - INFO: Element found with locator: verify-btn and  locatorType: id
+05/26/2020 02:48:38 PM - LoginPage - INFO: Clicked on element with locator: verify-btn locatorType: id
+05/26/2020 02:48:58 PM - LoginPage - INFO: Element found with locator: otp and  locatorType: id
+05/26/2020 02:48:58 PM - LoginPage - INFO: Element found with locator: sendOtp and  locatorType: id
+05/26/2020 02:48:58 PM - LoginPage - INFO: Clicked on element with locator: sendOtp locatorType: id
+05/26/2020 02:49:04 PM - Util - INFO: Actual Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 02:49:04 PM - Util - INFO: Expected Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 02:49:04 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+05/26/2020 02:49:04 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Url Verification
+05/26/2020 02:49:04 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 02:49:05 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + My Account Verification
+05/26/2020 02:49:05 PM - TestStatus - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 02:51:43 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 02:51:45 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span locatorType: xpath
+05/26/2020 02:51:45 PM - LoginPage - INFO: Element found with locator: phone_no1 and  locatorType: id
+05/26/2020 02:51:45 PM - LoginPage - INFO: Sent data on element with locator: phone_no1 locatorType: id
+05/26/2020 02:51:47 PM - LoginPage - INFO: Element found with locator: verify-btn and  locatorType: id
+05/26/2020 02:51:47 PM - LoginPage - INFO: Clicked on element with locator: verify-btn locatorType: id
+05/26/2020 02:52:07 PM - LoginPage - INFO: Element found with locator: otp and  locatorType: id
+05/26/2020 02:52:07 PM - LoginPage - INFO: Element found with locator: sendOtp and  locatorType: id
+05/26/2020 02:52:07 PM - LoginPage - INFO: Clicked on element with locator: sendOtp locatorType: id
+05/26/2020 02:52:13 PM - Util - INFO: Actual Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 02:52:13 PM - Util - INFO: Expected Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 02:52:13 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+05/26/2020 02:52:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Url Verification
+05/26/2020 02:52:13 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 02:52:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + My Account Verification
+05/26/2020 02:52:13 PM - TestStatus - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 03:29:48 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 03:29:50 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span locatorType: xpath
+05/26/2020 03:29:50 PM - LoginPage - INFO: Element found with locator: phone_no1 and  locatorType: id
+05/26/2020 03:29:50 PM - LoginPage - INFO: Sent data on element with locator: phone_no1 locatorType: id
+05/26/2020 03:29:52 PM - LoginPage - INFO: Element found with locator: verify-btn and  locatorType: id
+05/26/2020 03:29:52 PM - LoginPage - INFO: Clicked on element with locator: verify-btn locatorType: id
+05/26/2020 03:30:12 PM - LoginPage - INFO: Element found with locator: otp and  locatorType: id
+05/26/2020 03:30:12 PM - LoginPage - INFO: Element found with locator: sendOtp and  locatorType: id
+05/26/2020 03:30:13 PM - LoginPage - INFO: Clicked on element with locator: sendOtp locatorType: id
+05/26/2020 03:30:19 PM - Util - INFO: Actual Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 03:30:19 PM - Util - INFO: Expected Text From Application Web UI --> :: https://www.clickoncare.com/123
+05/26/2020 03:30:19 PM - Util - INFO: ### VERIFICATION DOES NOT MATCHED !!!
+05/26/2020 03:30:19 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Url Verification
+05/26/2020 03:30:24 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\PavanKumar\PycharmProjects\clickoncare\base\../screenshots/Url Verification.1590487224348.png
+05/26/2020 03:30:24 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 03:30:24 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + My Account Verification
+05/26/2020 03:30:24 PM - TestStatus - ERROR: test_login ### TEST FAILED
+05/26/2020 03:33:32 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 03:33:33 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span locatorType: xpath
+05/26/2020 03:33:33 PM - LoginPage - INFO: Element found with locator: phone_no1 and  locatorType: id
+05/26/2020 03:33:33 PM - LoginPage - INFO: Sent data on element with locator: phone_no1 locatorType: id
+05/26/2020 03:33:35 PM - LoginPage - INFO: Element found with locator: verify-btn and  locatorType: id
+05/26/2020 03:33:35 PM - LoginPage - INFO: Clicked on element with locator: verify-btn locatorType: id
+05/26/2020 03:33:55 PM - LoginPage - INFO: Element found with locator: otp and  locatorType: id
+05/26/2020 03:33:55 PM - LoginPage - INFO: Element found with locator: resendOtp-btn and  locatorType: id
+05/26/2020 03:33:56 PM - LoginPage - INFO: Clicked on element with locator: resendOtp-btn locatorType: id
+05/26/2020 03:34:21 PM - LoginPage - INFO: Element found with locator: sendOtp and  locatorType: id
+05/26/2020 03:34:21 PM - LoginPage - INFO: Clicked on element with locator: sendOtp locatorType: id
+05/26/2020 03:34:29 PM - Util - INFO: Actual Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 03:34:29 PM - Util - INFO: Expected Text From Application Web UI --> :: https://www.clickoncare.com/
+05/26/2020 03:34:29 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+05/26/2020 03:34:29 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Url Verification
+05/26/2020 03:34:29 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div[1]/div[3]/ul/li[2]/a/span and  locatorType: xpath
+05/26/2020 03:34:29 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + My Account Verification
+05/26/2020 03:34:29 PM - TestStatus - INFO: test_login ### TEST SUCCESSFUL
